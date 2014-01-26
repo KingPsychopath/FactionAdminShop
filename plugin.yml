@@ -1,0 +1,8 @@
+main: me.ifamasssxd.factionadminshop.FactionAdminShop
+name: FactionAdminShop
+version: 1.0
+commands:
+  spawnshop:
+    description: Spawns a shop entity.
+  removeshop:
+    description: Removes the shops
